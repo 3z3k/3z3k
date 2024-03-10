@@ -6,7 +6,7 @@
 
 ###
 
-<h3 align="center">Country : Belgium<br>Activities : MMA, Theology, Graphic Designer, Video Editor, Web Designer, Developper, Pentester</h3>
+<h3 align="center">Country : Belgium<br>Activities : MMA, Theology, Developper</h3>
 
 ###
 
