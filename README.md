@@ -6,7 +6,7 @@
 
 ###
 
-<h3 align="center">Country : Belgium<br>Activities : MMA, Theology, Developper</h3>
+<h3 align="center">Country : Belgium<br>Young IT Enthusiast</h3>
 
 ###
 
